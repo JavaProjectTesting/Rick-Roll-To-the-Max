@@ -26,5 +26,5 @@ Using GUI it can make any song super annoying by opening up loads of tabs.
 ░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░█
 ░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░█
 ________________________________________________________________________________
-This just opens a load of tabs corisponding to the options that you put in.
+This just opens a load of tabs corisponding to the options that you put in!
 
