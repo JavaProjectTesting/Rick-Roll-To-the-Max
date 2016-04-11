@@ -7,8 +7,8 @@ Using GUI it can make any song super annoying by opening up loads of tabs.
 *Able to enter how many tabs you want open
 *Able to pick witch song you want by just coping the URL
 *Able to have a delay in the song
------------Premium Features-----------
-*A Stop button for the sound, Please Buy the full version of the troll
+-----------Beta Features-----------
+*A Stop button --- Not Implmented, public beta SOON!
 
 ________________________________________________________________________________
 This just opens a load of tabs corisponding to the options that you put in!
