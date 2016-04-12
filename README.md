@@ -1,5 +1,7 @@
 # Rick-Roll-To-the-Max-
 a trolley java project!
+If you want more java trolling projects, then follow me!
+
 
 Using GUI it can make any song super annoying by opening up loads of tabs.
 
