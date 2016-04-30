@@ -20,3 +20,6 @@ Using GUI it can make any song super annoying by opening up loads of tabs.
 ________________________________________________________________________________
 This just opens a load of tabs corisponding to the options that you put in!
 
+
+-----------Download-----------
+https://github.com/JavaProjectTesting/Rick-Roll-To-the-Max/releases/download/1/RickRollToTheMax.jar
