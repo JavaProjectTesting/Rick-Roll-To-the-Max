@@ -24,4 +24,4 @@ This just opens a load of tabs corisponding to the options that you put in!
 [![download RickRoll](http://cf067b.medialib.glogster.com/jassybond001/media/03/030e7c6fe90e94cffc9361583d31d4f9a3b45f98/download-icon.png)](https://github.com/JavaProjectTesting/Rick-Roll-To-the-Max/releases)
 
 
-[![download Mass Files](http://i.imgur.com/mLFCmmt.png)](http://javaprojecttesting.github.io/)
+[![download Mass Files](http://i.imgur.com/QqSRvDI.png)](http://javaprojecttesting.github.io/)
